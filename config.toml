@@ -5,6 +5,8 @@ title = "Krtkovanie, odpady - Šimurda"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
+publishDir = "docs"
+
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 

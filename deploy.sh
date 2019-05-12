@@ -24,5 +24,5 @@ pipenv install --system --skip-lock &&\
 pipenv shell
 
 hugo --theme=hugo-split-theme &&\
-chmod -R o+rx static/* public/* && deploy $@
+chmod -R o+rx static/* public/* docs/* && deploy $@
 
