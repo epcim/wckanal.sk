@@ -16,13 +16,13 @@ copyright = "&copy;2019 Šimurda"
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jarko Šimurda"
+  author = "Jaroslav Šimurda"
   description = "TV monitoring potrubia a čistenie"
   #shareImage = "images/social.jpg"
   #twitterHandle = "onepagelove"
 
   # Favicon
-#  favicon = "favicon.ico"
+  favicon = "favicon.ico"
 
   # Section - Visual
   [params.visual]
@@ -30,7 +30,7 @@ copyright = "&copy;2019 Šimurda"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/profilephoto.png"
+      file = "images/flush.svg"
       position = "center center"
 
 #    # Video

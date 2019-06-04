@@ -1,5 +1,5 @@
 +++
-title = "Jarko Šimurda"
+title = "Jaroslav Šimurda"
 tagline = "TV monitoring potrubia a čistenie"
 +++
 
