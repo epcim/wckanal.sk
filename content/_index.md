@@ -1,5 +1,5 @@
-+++
-title = "Jaroslav Šimurda"
+tagline = NA STRÁNKE SA PRACUJE
+title = "Ing. Jaroslav Šimurda"
 tagline = "TV monitoring potrubia a čistenie"
 +++
 
