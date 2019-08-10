@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "//wckanal.sk/"
 languageCode = "sk"
-title = "Krtkovanie, odpady - Šimurda"
+title = "Čistenie kanalizácie a potrubia, TV monitoring - Šimurda"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -9,16 +9,25 @@ publishDir = "docs"
 # assetsDir = "assets"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-145760197-1"
 
 # Copyright
 copyright = "&copy;2019 Šimurda"
+
+# SEO
+enableRobotsTXT = true
+canonifyURLs = true
+
+[sitemap]
+  ChangeFreq = "weekly"
+  Priority = "7"
 
 [params]
 
   # Metadata for search engines and social sharing
   author = "Jaroslav Šimurda"
-  description = "TV monitoring potrubia a čistenie"
+  description = "Krtkovanie a čistenie kanalizácie, potrubia, TV monitoring, WC, pisoárov,umývadiel, drenáží. Žilina, Čadca, Martin, Krásno, Kysucké Nové Mesto"
+
   #shareImage = "images/social.jpg"
   #twitterHandle = "onepagelove"
 

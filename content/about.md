@@ -1,3 +1,11 @@
++++
+title = "Ing. Jaroslav Šimurda"
+#tagline = ""
+markup = "markdown"
+description = "cisteniekanalizacia,cistenie potribia monitoringi, čistenie prípojok umývadiel, drezov, WC, pisoárov, drenáží, odvodňovcích systémov"
+tags  = [ 'krtkovanie','kanalizace','wc','cistenie','potrubi','cistenie','kanalizacie','TV monitoring','monitoring','Zilina', 'Kysuca', 'Cadca', 'Martin', 'Krasno', 'Kysucke Nove Mesto' ]
++++
+
   [&lt;&lt;&lt;](/)
 | [Služby](/about#sluzby)
 | [Technika](/about#technika)
