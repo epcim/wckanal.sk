@@ -31,7 +31,7 @@ copyright = "&copy;2019 Šimurda"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/photo/auto_vyrez.jpg"
+      file = "images/photo/auto_vyrez2.jpg"
       position = "center center"
 
 #    # Video

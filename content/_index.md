@@ -1,6 +1,7 @@
 +++
 title = "Ing. Jaroslav Šimurda"
 tagline = "Čistenie kanalizácie"
+#tagline = "Čistenie kanalizácie a TV monitoring"
 #tagline = "TV monitoring potrubia a čistenie"
 markup = "markdown"
 #markup = "mmark"
@@ -16,7 +17,7 @@ Profesionálne čistenie potrubi a kanalizácie – krtkovanie. Čistíme kanali
 
   [Služby](/about)
 | [Technika](/about#technika)
-| [Kontakt](/about#fakturace)
+| [Fakturačné&nbsp;údaje](/about#fakturace)
 | [Monitoring](/about#monitoring)
 
 Radi vám pomôžeme s vaším problémom.
