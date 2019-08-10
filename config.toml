@@ -6,6 +6,7 @@ theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 publishDir = "docs"
+# assetsDir = "assets"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -30,7 +31,7 @@ copyright = "&copy;2019 Šimurda"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/flush.svg"
+      file = "images/photo/auto_vyrez.jpg"
       position = "center center"
 
 #    # Video
@@ -63,8 +64,11 @@ copyright = "&copy;2019 Šimurda"
 
       [[params.links.list2.link]]
         text = "Instagram"
-        url = "#"
+        url = "https://www.instagram.com/wckanal_simurda/"
 
+      [[params.links.list2.link]]
+        text = "Facebook"
+        url = "https://www.facebook.com/jaroslav.simurda/"
 
 
   # The original template is released under the Creative Commons Attribution 3.0 License.

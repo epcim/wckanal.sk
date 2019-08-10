@@ -1,12 +1,22 @@
-tagline = NA STRÁNKE SA PRACUJE
++++
 title = "Ing. Jaroslav Šimurda"
-tagline = "TV monitoring potrubia a čistenie"
+tagline = "Čistenie kanalizácie"
+#tagline = "TV monitoring potrubia a čistenie"
+markup = "markdown"
+#markup = "mmark"
+
+#preventívny monitoring a čistenie
+#• kanalizačných prípojok
+#• umývadiel, drezov, WC a pisoárov
+#• kanalizácií v priemyselných objektoch
+#• drenáží a odvodňovcích systémov
 +++
 
-kanalizačných prípojok
-• umývadiel, drezov, WC a pisoárov 
-• kanalizácií v priemyselných objektoch
-• tukových usadenín v potrubí
-• drenáží a odvodňovcích systémov
-• Preventívny monitoring
+Profesionálne čistenie potrubi a kanalizácie – krtkovanie. Čistíme kanalizácie v rodinných domoch i priemyselných objektoch, žumpy, septiky, kanalizačné prípojky, odtoky do WC, umývadiel, drezov, vaní, revízne šachty, dažďové a uličné vpuste atď.
 
+  [Služby](/about)
+| [Technika](/about#technika)
+| [Kontakt](/about#fakturace)
+| [Monitoring](/about#monitoring)
+
+Radi vám pomôžeme s vaším problémom.
